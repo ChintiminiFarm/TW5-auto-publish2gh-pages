@@ -4,3 +4,10 @@ type: text/vnd.tiddlywiki
 
 This is the demo wiki built automatically by [[travis-ci|http://travis-ci.org/]] following the instructions at
 the master branch of this github repo: [[https://github.com/danielo515/TW5-auto-publish2gh-pages]]
+
+This is a test to see if the first two syntax changes in the travis.yml file:
+
+# adding a feature branch specification 
+# adding a line break to prepare for the "--load" command syntax.
+
+...are effective
