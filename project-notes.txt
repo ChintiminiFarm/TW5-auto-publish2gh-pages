@@ -1,2 +1,3 @@
 2017/11/27 (Mon):
 Note that Travis CI needs to see the branches for new features in the travis.yml file.
+Let's see if we can add the TW5 "--load" command into the build pipeline...
