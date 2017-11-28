@@ -8,6 +8,6 @@ the master branch of this github repo: [[https://github.com/danielo515/TW5-auto-
 This is a test to see if the first two syntax changes in the travis.yml file:
 
 # adding a feature branch specification 
-# adding a line break to prepare for the "--load" command syntax.
+# trying a line break to prepare for the additional "--load" command syntax.
 
 ...are effective
