@@ -4,8 +4,8 @@ node_js:
 before_script:
   - npm install -g tiddlywiki
 script:
-  - tiddlywiki ./*wiki --load wiki_explore_gardening.html
-  - tiddlywiki ./*wiki --build
+  - tiddlywiki ./wiki --load wiki_explore_gardening.html
+  - tiddlywiki ./wiki --build
 
 after_success:
   - bash ./publish.sh
