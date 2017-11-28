@@ -4,6 +4,7 @@ node_js:
 before_script:
   - npm install -g tiddlywiki
 script:
+  - tiddlywiki ./*wiki --load wiki.explore.gardening.html
   - tiddlywiki ./*wiki --build
 
 after_success:
