@@ -1,0 +1,3 @@
+<h1 class="">HelloThere</h1><p>This is the demo wiki built automatically by <a class="tc-tiddlylink-external" href="http://travis-ci.org/" rel="noopener noreferrer" target="_blank">travis-ci</a> following the instructions at
+the master branch of this github repo: <a class="tc-tiddlylink-external" href="https://github.com/danielo515/TW5-auto-publish2gh-pages" rel="noopener noreferrer" target="_blank">https://github.com/danielo515/TW5-auto-publish2gh-pages</a></p><p>This is a test to see if the first two syntax changes in the travis.yml file:</p><ol><li>adding a feature branch specification </li><li>trying a line break to prepare for the additional &quot;–load&quot; command syntax.</li></ol><p>...are effective
+</p>
